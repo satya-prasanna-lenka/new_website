@@ -934,7 +934,7 @@ section{
   /* position: absolute; */
   top: 0;
 }
-.navigation_ul{
+.navigation_ul{ 
   height: 50vh;
   z-index: 5;
   position: absolute;
@@ -984,8 +984,34 @@ top: 100px;
   position: relative;
   left: 21vw;
 }
-
-
+/* .main_heading_first{
+  height: 80vh;
+  background-color: violet;
+} */
+.main_heading_top{
+  height: 90vh;
+  /* background-color: turquoise; */
+}
+.first_content h1{
+  width: 97vw;
+}
+.second_container{
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  /* background-color: #8a1c1c; */
+}
+.second_container img{
+  width: 100vw;
+}
+.third_container{
+  flex-direction: column;
+  width: 100vw;
+  /* background-color: yellow; */
+}
+.third_container img{
+  width: 100vw;
+}
 
 
 .list-box{
